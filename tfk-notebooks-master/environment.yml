@@ -1,0 +1,18 @@
+name: tfk-notebooks
+dependencies:
+- python=3
+- ipython
+- ipython-notebook
+- scipy
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- seaborn
+- traitlets
+- flask
+- requests
+- pip:
+    - keras
+    - watermark
+    - librosa
